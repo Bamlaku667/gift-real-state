@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t1",
+    "name": "Abebe Girma",
+    "location": "Washington DC, USA",
+    "property": "Bole Atlas - 3BHK",
+    "rating": 5,
+    "quote": "Gift Real Estate made my dream of owning a home in Ethiopia a reality. The diaspora support team was exceptional throughout the entire process.",
+    "approved": true,
+    "createdAt": "2026-03-20T10:30:20.838Z"
+  },
+  {
+    "id": "t2",
+    "name": "Tigist Haile",
+    "location": "Dubai, UAE",
+    "property": "La Gare - 2BHK",
+    "rating": 5,
+    "quote": "The quality of construction and attention to detail is unmatched. I purchased remotely and the team guided me every step of the way.",
+    "approved": true,
+    "createdAt": "2026-03-20T10:30:20.838Z"
+  },
+  {
+    "id": "t3",
+    "name": "Solomon Bekele",
+    "location": "Addis Ababa",
+    "property": "Bole Atlas - 2BHK",
+    "rating": 5,
+    "quote": "From the virtual tour to handover, the experience was seamless. My new home exceeds all expectations.",
+    "approved": true,
+    "createdAt": "2026-03-20T10:30:20.838Z"
+  }
+]

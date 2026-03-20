@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c1",
+    "site": "Bole Atlas",
+    "phase": "Foundation & Structure",
+    "progress": 85,
+    "update": "Floors 1–12 completed. Structural works ongoing on upper floors.",
+    "image": "/images/atlas progress.jpg",
+    "date": "2026-03-17"
+  },
+  {
+    "id": "c2",
+    "site": "Ayat Site",
+    "phase": "Foundation Work",
+    "progress": 70,
+    "update": "Foundation work 90% complete. Column work currently in progress.",
+    "image": "/images/AYAT PROGRESS.jpg",
+    "date": "2026-03-17"
+  },
+  {
+    "id": "c3",
+    "site": "La Gare Site",
+    "phase": "Phase 2 Construction",
+    "progress": 50,
+    "update": "Phase 2 construction commenced. Site preparation and excavation active.",
+    "image": "/images/lg 2phase.jpg",
+    "date": "2026-03-17"
+  },
+  {
+    "id": "c4",
+    "site": "CMC Site",
+    "phase": "Interior & Finishing",
+    "progress": 30,
+    "update": "Interior finishing works and MEP systems installation underway.",
+    "image": "/images/cmc front.jpg",
+    "date": "2026-03-17"
+  }
+]
