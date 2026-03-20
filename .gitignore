@@ -1,1 +1,10 @@
-./ode_modules
+./node_modules
+/.next
+/out
+/dist
+/build
+/.env
+/.env.local
+/.env.development
+/.env.production
+/.env.test
