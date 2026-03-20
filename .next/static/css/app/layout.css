@@ -1068,26 +1068,17 @@ video {
 .h-9 {
   height: 2.25rem;
 }
-.h-\[400px\] {
-  height: 400px;
-}
 .h-\[500px\] {
   height: 500px;
+}
+.h-\[700px\] {
+  height: 700px;
 }
 .h-full {
   height: 100%;
 }
 .h-screen {
   height: 100vh;
-}
-.h-\[600px\] {
-  height: 600px;
-}
-.h-\[700px\] {
-  height: 700px;
-}
-.h-60 {
-  height: 15rem;
 }
 .max-h-0 {
   max-height: 0px;
@@ -1628,10 +1619,6 @@ video {
 }
 .fill-primary {
   fill: #dcda13;
-}
-.object-contain {
-  -o-object-fit: contain;
-     object-fit: contain;
 }
 .object-cover {
   -o-object-fit: cover;

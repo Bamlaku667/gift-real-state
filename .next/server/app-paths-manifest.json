@@ -1,11 +1,4 @@
 {
-  "/contact/page": "app/contact/page.js",
-  "/payment-plans/page": "app/payment-plans/page.js",
-  "/gift-village/page": "app/gift-village/page.js",
-  "/founders-message/page": "app/founders-message/page.js",
-  "/construction-progress/page": "app/construction-progress/page.js",
-  "/api/construction/route": "app/api/construction/route.js",
-  "/testimonials/page": "app/testimonials/page.js",
-  "/api/testimonials/route": "app/api/testimonials/route.js",
-  "/page": "app/page.js"
+  "/page": "app/page.js",
+  "/projects/page": "app/projects/page.js"
 }
