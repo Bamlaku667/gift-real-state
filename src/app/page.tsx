@@ -404,7 +404,7 @@ export default function HomePage() {
                                     WHATSAPP
                                 </a>
                                 <a
-                                    href="https://t.me/giftrealestate"
+                                    href="https://t.me/GiftRealestateEt"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex-1 flex items-center justify-center gap-2 bg-[#2481cc] text-white py-3 px-4 rounded-xl font-medium hover:bg-[#1a6ea8] transition-colors duration-200 text-sm"
