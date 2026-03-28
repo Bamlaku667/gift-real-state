@@ -5,6 +5,7 @@ import { Footer } from '@/components/layouts/Footer';
 import { FloatingChatbot } from '@/components/chatbot/FloatingChatbot';
 import { AnnouncementBanner } from '@/components/AnnouncementBanner';
 import { Toaster } from 'sonner';
+import Script from 'next/script';
 
 export const metadata: Metadata = {
     title: {
@@ -41,6 +42,15 @@ export default function RootLayout({
                 />
             </head>
             <body className="min-h-screen bg-background font-sans">
+                <Script src="https://www.googletagmanager.com/gtag/js?id=AW-18033122778" strategy="afterInteractive" />
+                <Script id="google-analytics" strategy="afterInteractive">
+                    {`
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('js', new Date());
+                        gtag('config', 'AW-18033122778');
+                    `}
+                </Script>
                 <Header />
                 <main>{children}</main>
                 <Footer />
