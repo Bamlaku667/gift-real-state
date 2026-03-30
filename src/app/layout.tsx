@@ -42,13 +42,13 @@ export default function RootLayout({
                 />
             </head>
             <body className="min-h-screen bg-background font-sans">
-                <Script src="https://www.googletagmanager.com/gtag/js?id=AW-18033122778" strategy="afterInteractive" />
+                <Script src="https://www.googletagmanager.com/gtag/js?id=AW-18047568050" strategy="afterInteractive" />
                 <Script id="google-analytics" strategy="afterInteractive">
                     {`
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
-                        gtag('config', 'AW-18033122778');
+                        gtag('config', 'AW-18047568050');
                     `}
                 </Script>
                 <Header />
